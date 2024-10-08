@@ -1,0 +1,17 @@
+.text-center {
+    text-align: center;
+}
+
+.foto-aluno {
+    width: 75px; /* ajuste a largura desejada */
+    height: auto; /* mantém a proporção da altura */
+}
+
+.dados-container {
+    margin-left: 20px; /* Adiciona espaço à esquerda dos dados */
+}
+
+.d-flex img {
+    margin-left: 10px; /* Ajuste conforme necessário */
+    margin-right: 10px; /* Ajuste conforme necessário */
+}
